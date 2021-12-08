@@ -1,3 +1,5 @@
+python 3.10 no ubuntu Ubuntu 20.04.3 LTS
+========================================
 
 sudo apt update && sudo apt upgrade -y
 
